@@ -22,7 +22,7 @@
 ### 구현 환경 및 프로그램
 - 서버 및 환경:  Docker, Ubuntu, OpenJDK
 - 프론트엔드: HTML, CSS, JSP, Bootstrap
-- 백엔드: Java, MariaDB, ,REST API, Apache Tomcat
+- 백엔드: Java, MariaDB, REST API, Apache Tomcat
 
 ### 구현 화면
 ![bufs1](https://user-images.githubusercontent.com/58046372/104699552-4583c680-5756-11eb-9eb6-fdce8dc4be1a.png)
